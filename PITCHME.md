@@ -10,11 +10,11 @@ _paginate: false
 
 ![bg opacity](./assets/gradient.jpg)
 
-# <!--fit--> Marp CLI example
+# <!--fit--> Rust... Why...?
 
-Hosting Marp slide deck on the web
+Why you should be coding in Rust
 
-https://github.com/yhatt/marp-cli-example
+https://github.com/abstecker/why-rust
 
 <style scoped>a { color: #36c; }</style>
 
@@ -22,16 +22,31 @@ https://github.com/yhatt/marp-cli-example
 
 ---
 
-![Marp bg 60%](https://raw.githubusercontent.com/marp-team/marp/master/marp.png)
+# Don't!
+
+---
+
+
+### <!--fit--> JUST DON'T
+
+---
+
+### <!--fit--> WHY?
+
+---
+
+##### <!--fit--> :scream_cat: It's a Trap!!! :scream_cat:
 
 ---
 
 <!-- _backgroundColor: "#123" -->
 <!-- _color: "#fff" -->
+![It is a trap!](./assets/itsatrap.jpg)
 
-##### <!--fit--> [Marp CLI](https://github.com/marp-team/marp-cli) + [GitHub Pages](https://github.com/pages) | [Netlify](https://www.netlify.com/) | [Vercel](https://vercel.com/)
+---
 
-##### <!--fit--> 👉 The easiest way to host<br />your Marp deck on the web
+* One
+* Two
 
 ---
 
