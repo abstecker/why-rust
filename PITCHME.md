@@ -45,8 +45,10 @@ https://github.com/abstecker/why-rust
 
 ---
 
-* One
-* Two
+# Reasons
+
+* It will make you hate every other language
+* ...
 
 ---
 
