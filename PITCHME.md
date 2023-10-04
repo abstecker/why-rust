@@ -122,7 +122,7 @@ Test soon, Testwell CTA++, TF unit test, Theft, tinytest, TPT, tpunit++, Trompel
 
 C, C++, Ruby, Python, Perl, Basic, Visual Basic, VBScript, LiveScript, JavaScript, ECMAScript, TypeScript, Go, Scala, Java, Elixir, Erlang, Pascal, C#, F#, Eiffel, Clojure
 
-x languages TIMES y frameworks = I am too old for this ...
+**x languages TIMES y frameworks = I am too old for this ...**
 
 ---
 
@@ -130,47 +130,62 @@ x languages TIMES y frameworks = I am too old for this ...
 * Cargo
 * Clippy
 * Tests in same file
-* Living documentation
+* Doctests aka Living documentation
 
 
 ---
 
-![bg right 60%](https://icongr.am/octicons/mark-github.svg)
+# [Embedded Rust](https://www.rust-lang.org/what/embedded)
 
-## **[GitHub Pages](https://github.com/pages)**
+* Books
+  * [The Discovery book](https://docs.rust-embedded.org/discovery/)
+  * [The Embedded Rust Book](https://docs.rust-embedded.org/book/)
+  * [The Embedonomicon](https://docs.rust-embedded.org/embedonomicon/)
+* [Rust on Embedded Devices Working Group](https://github.com/rust-embedded)
+* [Awesome Embedded Rust](https://github.com/rust-embedded/awesome-embedded-rust)
+* [Running Rust on Microcontrollers](https://blog.mbedded.ninja/programming/languages/rust/running-rust-on-microcontrollers/)
+* [Rust for Embedded – Is It Ready Yet?](https://www.inovex.de/de/blog/rust-for-embedded-is-it-ready-yet/)
 
-#### Ready to write & host your deck!
-
-[![Use this as template h:1.5em](https://img.shields.io/badge/-Use%20this%20as%20template-brightgreen?style=for-the-badge&logo=github)](https://github.com/yhatt/marp-cli-example/generate)
-
----
-
-![bg right 60%](https://icongr.am/simple/netlify.svg?colored)
-
-## **[Netlify](https://www.netlify.com/)**
-
-#### Ready to write & host your deck!
-
-[![Deploy to Netlify h:1.5em](./assets/netlify-deploy-button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/yhatt/marp-cli-example)
 
 ---
 
-![bg right 60%](https://icongr.am/simple/zeit.svg)
+### [5 roadblocks to Rust adoption in embedded systems](https://www.embedded.com/5-roadblocks-to-rust-adoption-in-embedded-systems/)
 
-## **[Vercel](https://vercel.com/)**
 
-#### Ready to write & host your deck!
-
-[![Deploy to Vercel h:1.5em](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/yhatt/marp-cli-example)
-
----
-
-### <!--fit--> :ok_hand:
+- Commercial Support
+- Training Costs
+- Conservative Adoption of Technologies
+- Toolchain Integration
+- Lack of Standardization
 
 ---
 
-![bg 40% opacity blur](https://avatars1.githubusercontent.com/u/3993388?v=4)
+# Free Books!
 
-### Created by Yuki Hattori ([@yhatt](https://github.com/yhatt))
+* [The Rust Programming Language](https://doc.rust-lang.org/stable/book/)
+* [The Rust Performance Book](https://nnethercote.github.io/perf-book/)
+* [The Rustonomicon](https://doc.rust-lang.org/nightly/nomicon/)
+* [Rust Design Patterns](https://rust-unofficial.github.io/patterns/)
+* [Effective Rust](https://www.lurklurk.org/effective-rust/)
+* [Rust Atomics and Locks](https://marabos.nl/atomics/foreword.html)
+* [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/index.html)
 
-https://github.com/yhatt/marp-cli-example
+
+---
+
+# Rust YouTube Channels
+
+* Jeremy Chone https://youtube.com/@JeremyChone 
+* No Boilerplate: https://youtube.com/@NoBoilerplate
+* Logan Smith: https://youtube.com/@_noisecode
+* Tim Clicks: https://youtube.com/@timClicks
+* Lets Get Rusty: https://youtube.com/@letsgetrusty
+* Jon Gjengset: https://youtube.com/@jonhoo
+
+---
+
+![bg 40% opacity blur](https://avatars.githubusercontent.com/u/132228748?s=200&v=4)
+
+### Created by Christoph ([@folkengine](https://github.com/folkengine))
+
+https://github.com/abstecker/why-rust
