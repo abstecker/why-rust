@@ -1,6 +1,6 @@
 ---
 marp: true
-title: Marp CLI example
+title: Rost... Why?
 description: Hosting Marp slide deck on the web
 theme: uncover
 transition: fade
