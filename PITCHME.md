@@ -129,7 +129,7 @@ Test soon, Testwell CTA++, TF unit test, Theft, tinytest, TPT, tpunit++, Trompel
 
 ### Example 4 cont... (Rust Version)
 
-* Test
+* [Test](https://doc.rust-lang.org/book/ch11-01-writing-tests.html)
 
 ---
 
