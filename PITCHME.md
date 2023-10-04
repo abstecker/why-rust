@@ -144,6 +144,14 @@ C, C++, Ruby, Python, Perl, Basic, Visual Basic, VBScript, LiveScript, JavaScrip
 
 ---
 
+# The Moral:
+
+Just because a language doesn't, doesn't mean you don't have to. 
+
+(How many negatives is this?)
+
+---
+
 # [Embedded Rust](https://www.rust-lang.org/what/embedded)
 
 - Books
@@ -194,7 +202,6 @@ C, C++, Ruby, Python, Perl, Basic, Visual Basic, VBScript, LiveScript, JavaScrip
 ## The World's Simplest Kata
 
 https://github.com/devplaybooks/rust_worlds_simplest_kata
-
 
 ---
 
