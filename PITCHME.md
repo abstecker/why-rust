@@ -153,6 +153,22 @@ Just because a language doesn't, doesn't mean you don't have to.
 
 ---
 
+## Areas I am Watching
+
+* WASM
+* Embedded Rust
+
+---
+
+# [WASM](https://www.rust-lang.org/what/wasm)
+
+- [Rust WASM Book](https://rustwasm.github.io/docs/book/)
+  - [Implementing Conway's Game of Life](https://rustwasm.github.io/docs/book/game-of-life/implementing.html)
+- [wasm-pack](https://github.com/rustwasm/wasm-pack)
+- [Rust WebAssembly (WASM) working group](https://www.rust-lang.org/governance/wgs/wasm)
+
+---
+
 # [Embedded Rust](https://www.rust-lang.org/what/embedded)
 
 - Books
