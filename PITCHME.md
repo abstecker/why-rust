@@ -31,6 +31,7 @@ https://github.com/abstecker/why-rust
   * Rustup
   * Cargo
   * Clippy
+  * Compare to Go and Angular
 * Tests in same file (who knew I needed this?)
 * [doctests!!!](https://github.com/abstecker/rs_scratch/blob/main/src/lib.rs)
 
