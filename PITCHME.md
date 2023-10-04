@@ -1,6 +1,6 @@
 ---
 marp: true
-title: Rost... Why?
+title: Rust... Why?
 description: Hosting Marp slide deck on the web
 theme: uncover
 transition: fade
