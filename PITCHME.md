@@ -27,11 +27,7 @@ https://github.com/abstecker/why-rust
 * Memory Management 
   * (avoids [Billion Dollar Mistake](https://en.wikipedia.org/wiki/Tony_Hoare#cite_ref-27))
   * No garbage collection [Example](https://github.com/abstecker/rs_scratch)
-* Consistency
-  * Rustup
-  * Cargo
-  * Clippy
-  * Compare to Go and Angular
+* Consistency (Compare to Go and Angular)
 * Tests in same file (who knew I needed this?)
 * [doctests!!!](https://github.com/abstecker/rs_scratch/blob/main/src/lib.rs)
 
