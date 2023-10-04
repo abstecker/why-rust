@@ -22,6 +22,24 @@ https://github.com/abstecker/why-rust
 
 ---
 
+### Key Features to this developer's heart
+
+* Memory Management 
+  * (avoids [Billion Dollar Mistake](https://en.wikipedia.org/wiki/Tony_Hoare#cite_ref-27))
+  * No garbage collection [Example](https://github.com/abstecker/rs_scratch)
+* Consistency
+  * Rustup
+  * Cargo
+  * Clippy
+* Tests in same file (who knew I needed this?)
+* [doctests!!!](https://github.com/abstecker/rs_scratch/blob/main/src/lib.rs)
+
+---
+
+## My Advice on using Rust is...
+
+---
+
 # Don't
 
 ---
@@ -126,31 +144,20 @@ C, C++, Ruby, Python, Perl, Basic, Visual Basic, VBScript, LiveScript, JavaScrip
 
 ---
 
-* Rustup
-* Cargo
-* Clippy
-* Tests in same file
-* Doctests aka Living documentation
-
-
----
-
 # [Embedded Rust](https://www.rust-lang.org/what/embedded)
 
-* Books
-  * [The Discovery book](https://docs.rust-embedded.org/discovery/)
-  * [The Embedded Rust Book](https://docs.rust-embedded.org/book/)
-  * [The Embedonomicon](https://docs.rust-embedded.org/embedonomicon/)
-* [Rust on Embedded Devices Working Group](https://github.com/rust-embedded)
-* [Awesome Embedded Rust](https://github.com/rust-embedded/awesome-embedded-rust)
-* [Running Rust on Microcontrollers](https://blog.mbedded.ninja/programming/languages/rust/running-rust-on-microcontrollers/)
-* [Rust for Embedded – Is It Ready Yet?](https://www.inovex.de/de/blog/rust-for-embedded-is-it-ready-yet/)
-
+- Books
+  - [The Discovery book](https://docs.rust-embedded.org/discovery/)
+  - [The Embedded Rust Book](https://docs.rust-embedded.org/book/)
+  - [The Embedonomicon](https://docs.rust-embedded.org/embedonomicon/)
+- [Rust on Embedded Devices Working Group](https://github.com/rust-embedded)
+- [Awesome Embedded Rust](https://github.com/rust-embedded/awesome-embedded-rust)
+- [Running Rust on Microcontrollers](https://blog.mbedded.ninja/programming/languages/rust/running-rust-on-microcontrollers/)
+- [Rust for Embedded – Is It Ready Yet?](https://www.inovex.de/de/blog/rust-for-embedded-is-it-ready-yet/)
 
 ---
 
 ### [5 roadblocks to Rust adoption in embedded systems](https://www.embedded.com/5-roadblocks-to-rust-adoption-in-embedded-systems/)
-
 
 - Commercial Support
 - Training Costs
@@ -162,25 +169,32 @@ C, C++, Ruby, Python, Perl, Basic, Visual Basic, VBScript, LiveScript, JavaScrip
 
 # Free Books!
 
-* [The Rust Programming Language](https://doc.rust-lang.org/stable/book/)
-* [The Rust Performance Book](https://nnethercote.github.io/perf-book/)
-* [The Rustonomicon](https://doc.rust-lang.org/nightly/nomicon/)
-* [Rust Design Patterns](https://rust-unofficial.github.io/patterns/)
-* [Effective Rust](https://www.lurklurk.org/effective-rust/)
-* [Rust Atomics and Locks](https://marabos.nl/atomics/foreword.html)
-* [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/index.html)
+- [The Rust Programming Language](https://doc.rust-lang.org/stable/book/)
+- [The Rust Performance Book](https://nnethercote.github.io/perf-book/)
+- [The Rustonomicon](https://doc.rust-lang.org/nightly/nomicon/)
+- [Rust Design Patterns](https://rust-unofficial.github.io/patterns/)
+- [Effective Rust](https://www.lurklurk.org/effective-rust/)
+- [Rust Atomics and Locks](https://marabos.nl/atomics/foreword.html)
+- [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/index.html)
 
 
 ---
 
 # Rust YouTube Channels
 
-* Jeremy Chone https://youtube.com/@JeremyChone 
-* No Boilerplate: https://youtube.com/@NoBoilerplate
-* Logan Smith: https://youtube.com/@_noisecode
-* Tim Clicks: https://youtube.com/@timClicks
-* Lets Get Rusty: https://youtube.com/@letsgetrusty
-* Jon Gjengset: https://youtube.com/@jonhoo
+- Jeremy Chone https://youtube.com/@JeremyChone 
+- No Boilerplate: https://youtube.com/@NoBoilerplate
+- Logan Smith: https://youtube.com/@_noisecode
+- Tim Clicks: https://youtube.com/@timClicks
+- Lets Get Rusty: https://youtube.com/@letsgetrusty
+- Jon Gjengset: https://youtube.com/@jonhoo
+
+---
+
+## The World's Simplest Kata
+
+https://github.com/devplaybooks/rust_worlds_simplest_kata
+
 
 ---
 
